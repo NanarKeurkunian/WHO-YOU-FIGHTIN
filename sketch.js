@@ -3,11 +3,11 @@ var Hit=[]
 
 function preload(){
 	Celebs[0]=loadImage('D-Wayne.jpg')
-	Celebs[1]=loadImage('Anne_Nottheway.jpg')
-	Celebs[2]=loadImage('Jimmy_Fallin.jpg')
+	Celebs[1]=loadImage('AnneNottheway.jpg')
+	Celebs[2]=loadImage('JimmyFallin.jpg')
 	Celebs[3]=loadImage('Lavatoot.jpg')
 	Celebs[4]=loadImage('Ma-tea-oo.jpg')
-	Celebs[5]=loadImage('Kim_Crydashian.jpg')
+	Celebs[5]=loadImage('KimCrydashian.jpg')
 	Hit[0]=loadImage('Pow.jpg')
 	Hit[1]=loadImage('Bam.jpg')
 	Hit[2]=loadImage('Zonk.png')
