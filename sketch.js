@@ -18,8 +18,6 @@ function preload(){
 function setup(){
 	createCanvas(windowWidth,windowHeight)
 	
-	text(["CLICK-THIS-SPACE"],500,500)
-	
 	for(var i=0; i<Celebs.length; i++){
 		Celebs[i].resize(200,0)
 	}
