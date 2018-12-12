@@ -29,6 +29,7 @@ function setup(){
 }
 
 function mouseClicked(){
+	background(random(255),random(255),random(255))
 	image(random(Celebs),500+random(400),200+random(100))
 	image(random(Celebs),700-random(400),200+random(100))
 	image(random(Hit),600+random(300),100+random(100))
