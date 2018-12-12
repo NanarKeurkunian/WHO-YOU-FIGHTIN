@@ -18,8 +18,6 @@ function preload(){
 function setup(){
 	createCanvas(windowWidth,windowHeight)
 	
-	background(random(255),random(255),random(255))
-	
 	for(var i=0; i<Celebs.length; i++){
 		Celebs[i].resize(200,0)
 	}
